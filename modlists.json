@@ -2,10 +2,10 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Acorn",
-    "description": "",
-    "author": "<any name you want to show up in the UI>",
+    "description": "A template for making modlists (Suggestions wellcome i have no idea what to add)",
+    "author": "Timewhale",
     "maintainers": [
-      "github/<your github name>"
+      "github/potato-patch"
     ],
     "game": "skyrimspecialedition",
     "tags": [
@@ -17,11 +17,11 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "<link to an image to show in the UI>",
+      "image": "https://freerangestock.com/sample/124876/scenery-of-mountain-range-.jpg",
       "readme": "<link to your readme for your modlist>",
       "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
       "machineURL": "machineURL",
-      "discordURL": "<your discord link here>"
+      "discordURL": "https://discord.gg/R5kyppEtGX"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
