@@ -1,0 +1,37 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Acorn",
+    "description": "",
+    "author": "<any name you want to show up in the UI>",
+    "maintainers": [
+      "github/<your github name>"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "testing",
+      "<any tags you want in the UI, each in its own string"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "<link to an image to show in the UI>",
+      "readme": "<link to your readme for your modlist>",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "machineURL",
+      "discordURL": "<your discord link here>"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "1DcXjznBfLM=",
+      "Size": 31648289,
+      "NumberOfArchives": 59,
+      "SizeOfArchives": 23502061134,
+      "NumberOfInstalledFiles": 2439,
+      "SizeOfInstalledFiles": 26082804573
+    },
+    "version": "0.1"
+  }
+]
